@@ -1,4 +1,4 @@
-# iOS101
+# codepath-rework
 The first iOS app for the iOS101 course from CodePath
 Modify some labels, change color and adjust the font size
 
