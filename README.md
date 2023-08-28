@@ -1,2 +1,3 @@
 # iOS101
-First iOS app for iOS101 course from CodePath
+The first iOS app for the iOS101 course from CodePath
+add some new labels and adjust the font size
